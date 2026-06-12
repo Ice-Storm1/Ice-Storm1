@@ -1,10 +1,8 @@
 <div align="center">
 
-# 👋 Hey, I'm YourName
+# 💻 Vibe Coder • 🔐 Cyber Security • 🐧 Linux
 
-### 💻 Vibe Coder • 🔐 Cyber Security • 🐧 Linux
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=16+Years+Old;Vibe+Coder;Cyber+Security+Enthusiast;Fedora+Linux+User;Always+Building+Something" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Vibe+Coder;Cyber+Security+Enthusiast;Fedora+Linux+User;Games+Developer;Software+Developer" />
 
 </div>
 
@@ -12,7 +10,6 @@
 
 ## 🚀 About Me
 
-- 🎂 16 years old
 - 💻 Vibe Coder
 - 🔐 Cyber Security Enthusiast
 - 🐧 Fedora Linux User
