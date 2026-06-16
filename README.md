@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 - 💻 Vibe Coder
-- 🔐 Cyber Security Enthusiast
+- 🔐 Cyber Security 
 - 🐧 Fedora Linux User
 - 🎮 Games Developer
 - ⚙️ Software Developer
@@ -32,6 +32,7 @@
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![AntiGravity](https://img.shields.io/badge/AntiGravity-000000?style=for-the-badge)
+end more...
 
 </div>
 
