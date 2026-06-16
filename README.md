@@ -2,7 +2,7 @@
 
 # 💻 Vibe Coder • 🔐 Cyber Security • 🐧 Linux
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Vibe+Coder;Cyber+Security+Enthusiast;Fedora+Linux+User;Games+Developer;Software+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Vibe+Coder;Cyber+Security;Fedora+Linux+User;Games+Developer;Software+Developer" />
 
 </div>
 
